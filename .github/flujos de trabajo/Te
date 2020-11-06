@@ -1,0 +1,47 @@
+8:02 B
+
+AG.
+
+4G
+
+10%
+
+X
+
+m / s / testing Good-branch |) $ ghd pr create? ¿Dónde deberíamos empujar la rama de la 'rama buena'? vilmibm / prueba
+
+Creación de una solicitud de extracción para good-branch into trunk en vilmibm / testing
+
+! advertencia: no se pudo calcular el título o los valores predeterminados del cuerpo: no se pudo encontrar ninguna confirmación entre
+
+? Elija una plantilla Corrección de errores Título buen título
+
+? Cuerpo <Recibido>
+
+? ¿Que sigue? ¿Agregar metadatos? ¿Qué le gustaría agregar? Revisores, etiquetas, proyectos
+
+? Revisores evilmibm, vilmibm Labels bug, cool story, documentation, good first issue
+
+? ¿Proyectos un proyecto? ¿Que sigue? Enviar
+
+Total 0 (delta 0), reutilizado e (delta
+
+remoto:
+
+0)
+
+remoto: cree una solicitud de extracción para 'good-branch' en GitHub visitando: remoto: https://github.com/vilmibm/testing/pull/new/good-branch
+
+remoto:
+
+A github.com:vilmibm/testing.git
+
+* [nueva rama] HEAD -> buena rama
+
+Rama 'buena-rama' configurada para rastrear la rama remota 'buena-rama' desde 'origen.
+
+Error en la operación X entrada guardada en: /tmp/gh-dump-16424040dce042e0.json Error al crear la solicitud de extracción: Error de GraphQL: No hay confirmaciones entre el tronco y la rama buena
+
+/ s / testing (good-branch |) [1] $ cat /tmp/gh-dump-16424040dce042e0.json {"Type": 1, "Body": "good and Long PR body \ nbueno y Long PR body \ ngood y cuerpo de relaciones públicas largo \ n cuerpo de relaciones públicas bueno y largo \ n cuerpo de relaciones públicas bueno y largo \ n "," Título ":" buen título "," acción ": 3," wers ": [" evilmibm "," vilmibm "], "Assignees": null, "labels": ["bug", "Cool story" documento 1, "Milestones": null, "MetadataResult": {"AssignableUsers": [{"ID": "MDQ6VXNLCO MONJUINA == Ng = = "," Iniciar sesión ":" Brentwheeldon "}, {" ID ". "MDQ6VXNLCjQ4NDk4NzI4", "Iniciar sesión". "evilla J, 1410": "MDQ6VXNLcjk4NDgy", "Iniciar sesión": "vilmibm"}], "Etiquetas": [{"ID": "MDUGTGFIZWWXNTIMTMylizcym me": "historia genial"}, {"ID": "MDU6TGFiZTMWyxNTIc , "Nombre": "documentación" "MMO" MDUGTGFiZWwxNTIWNTMyNzc5 "," Nombre ":" mejora "}, {" ID ":" MDU6TGFiZWwxNTIWNTMyNzgz, N MyNzgx "," Nombre ":" se busca ayuda "}, {" ID ": "MDU6TGFiZWwxNTIwNTMyNzg1", "Nombre": "no válido"}, {"1" ID ":" MDU6TGF izWwxNTIwNTMyNzg4 "," Nombre ":" wontfix "}]," Proyectos ": [{" ID ":" MDchHavando "Equipos" : nulo}} T
+
+- / s / testing Cood-branch]) $
